@@ -83,7 +83,13 @@ author:
       url: "https://orcid.org/0000-0003-3835-9097"
 
 footer:
-  
+
+# Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-6CSHZ04VTX"
+    anonymize_ip: false # default  
 
 defaults:
   # _posts
