@@ -59,7 +59,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jonathan D. Hall a"
+  name   : "Jonathan D. Hall"
   avatar : "/assets/images/jdhall.jpg"
   bio    : "Assistant Professor of Economics and Public Policy at the University of Toronto"
   links:
@@ -111,9 +111,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
-  type: liquid
-  path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# category_archive:
+#   type: liquid
+#   path: /categories/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
