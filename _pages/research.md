@@ -17,9 +17,7 @@ header:
 
 "Can Behavioral Interventions Be Too Salient? Evidence from Traffic Safety Messages" (with Joshua Madsen) (submitted)
 
-## Selected works in progress
-
-"The value of mass information: Search in the Google era." With Christopher J. Costello and Michael B. Ward.
+<!-- ## Selected works in progress -->
 
 
 ## Publications
