@@ -24,6 +24,21 @@ header:
 
 ## Publications
 
+"Can Tolling Help Everyone? Estimating the Aggregate and Distributional Consequences of Congestion Pricing." Journal of the European Economic Association. 19:441-474. 2021.
+     Published version | Online appendix | Replication files
+
+"Tolling Roads to Improve Reliability" (with Ian Savage). Journal of Urban Economics. 113:103187. 2019.
+    Published version | Replication files
+
+"Is Uber a Complement or Substitute with Public Transit?" (with Craig Palsson and Joseph Price). Journal of Urban Economics. 108: 36-50. 2018.
+    Published version | Replication files
+
+"Pareto Improvements from Lexus Lanes: The Effects of Pricing a Portion of the Lanes on Congested Highways." Journal of Public Economics. 158: 113-125. 2018.
+    Published version | Online appendix | Replication files
+
+"A Semi-Analytical Approach for Solving the Bottleneck Model with General User Heterogeneity" (with Yang Liu and Marco Nie). Transportation Research: Part B. 71: 56-70. 2015.
+    Published version
+
 "Alternate explanations for the blue paradox do not withstand statistical scrutiny." With Kyle C. Meng, Gavin G. McDonald and Christopher J. Costello. Published in **<i>Proceedings of the National Academy of Sciences</i>**, 115 (52), E12124–E12125, 2018. ([Paper](https://doi.org/10.1073/pnas.1818687115){:target="_blank"}. [Ungated](http://grantmcdermott.com/papers/mcdermott2019blueparadox-reply.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/blueparadox){:target="_blank"}.)
 
 "The Blue Paradox: Preemptive Overfishing in Marine Reserves." With Kyle C. Meng, Gavin G. McDonald and Christopher J. Costello. Published in **<i>Proceedings of the National Academy of Sciences</i>**, 116 (12), 5319–5325, 2019. ([Paper](http://dx.doi.org/10.1073/pnas.1802862115){:target="_blank"}. [Ungated]({{ site.url }}/papers/mcdermott2019blueparadox.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/blueparadox){:target="_blank"}. [Blog post and media coverage]({{ site.url }}/2018/08/29/blue-paradox-pnas/){:target="_blank"}.)
