@@ -5,8 +5,8 @@ header:
   image: /assets/images/moro-crop2.jpg
 ---
 
-**Fields:** Environmental and natural resource economics. Applied econometrics and data science. Uncertainty and Bayesian learning.
-
+**Fields:** Urban and Transportation Economics
+<!-- 
 **Interests:** Energy markets and climate change. Water management. Fisheries policy. The impact of environmental quality on market outcomes.
 
 ## Working papers
@@ -19,22 +19,11 @@ header:
 
 *A central tenet of economic theory is that market power induces deadweight loss. This claim rests on an assumption that is difficult to verify empirically. Namely, that dominant firms produce less than the social optimum. I provide evidence of such restrictive behaviour using a rich dataset of Norwegian hydropower firms. The research design exploits exogenous variation in market power, arising from transmission bottlenecks and the formation of localized electricity markets. The unique production traits of hydropower production further helps to avoid empirical complications associated with marginal cost estimation and endogenous variation in the supply mix. This allows me to identify the causal impact of market power on firm behaviour in a reduced-form setting that requires minimal assumptions. I show that gaining pivotal status can cause firms to withhold production by as much as a two to five percent. My results suggest that even nominally competitive markets are susceptible to strategic manipulation and welfare losses.* ([Paper]({{ site.url }}/papers/hydro.pdf){:target="_blank"}.)
 
-<!-- Example of show/hide toggle for abstract:
-<details>
-  <summary>Abstract</summary>
-   <i>Hydropower is the world's foremost source of non-fossil fuel energy. It is also characterised by a unique set of production features that have the potential to greatly simplify economic questions related to firm behaviour and output. I exploit these characteristics, together with plant-level data and exogenous variation in market power, to identify evidence of noncompetitive behaviour in the Nordic electricity sector. Consistent with economic theory, I show that increased market power causes firms to withhold production during inelastic demand periods, thereby yielding higher profits and driving up consumer prices. The larger takeaway is that even our most advanced markets are susceptible to price distortions and welfare losses under fairly common conditions.</i>
-</details>
-<br>
--->
 
 
 ## Selected works in progress
 
 "The value of mass information: Search in the Google era." With Christopher J. Costello and Michael B. Ward.
-
-<!--
-*A broad class of economic decision problems involves searching over a collection of uncertain research leads. Existing search theory informs the efficient search over this pool using available information. But in many cases, the researcher has the opportunity to collect new information en masse, e.g. with a search engine or scientific framework, that will benefit the search. We derive the value of this type of bulk information, determine the general properties that render it large or small, and calculate its implications for economic innovation. We show that changes to the underlying characteristics of different search problems can yield surprising results. For example, more lucrative end-prizes can actually reduce the value of information, while the possibility of better information often suppresses innovation.*
--->
 
 
 ## Publications
@@ -56,4 +45,4 @@ header:
 
 "South Africa Compliance Analysis." With James Morrissey and Davina Mendelsohn, in “Governing Global Climate Change: St Petersburg Compliance Report for the ‘G8 Plus Five’ Countries”, Maria Banda and Joanna Langille (eds.), G8 Final Compliance Report 2007, Oxford: G8 Research Group Oxford, 1 June 2007. xiii + 190 pp. ([Report](http://www.g8.utoronto.ca/oxford/2006compliance-ox.pdf){:target="_blank"}.)
 
-"The Current Status of the EPWP (Infrastructure) in the Western Cape." With Anna McCord, Kim Adonis and Lisa van Dongen. Prepared for the Western Cape Provincial Treasury & Department of Transport And Public Works CAPE. Public Works Research Project, SALDRU, UCT, 24 March 2006. ([Report](http://www.saldru.uct.ac.za/documentation/reports-and-studies-1/147-the-current-status-of-the-epwp-infrastructure-in-the-western-cape-1){:target="_blank"}.)
+"The Current Status of the EPWP (Infrastructure) in the Western Cape." With Anna McCord, Kim Adonis and Lisa van Dongen. Prepared for the Western Cape Provincial Treasury & Department of Transport And Public Works CAPE. Public Works Research Project, SALDRU, UCT, 24 March 2006. ([Report](http://www.saldru.uct.ac.za/documentation/reports-and-studies-1/147-the-current-status-of-the-epwp-infrastructure-in-the-western-cape-1){:target="_blank"}.) -->
