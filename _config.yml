@@ -125,7 +125,7 @@ og_image: /assets/images/default-thumb.png
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-51727654-1"
+    tracking_id: "G-6CSHZ04VTX"
     anonymize_ip: false # default
 
 # Comments
