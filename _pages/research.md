@@ -6,20 +6,16 @@ header:
 ---
 
 **Fields:** Urban and Transportation Economics
-<!-- 
-**Interests:** Energy markets and climate change. Water management. Fisheries policy. The impact of environmental quality on market outcomes.
+
+<!-- **Interests:** Energy markets and climate change. Water management. Fisheries policy. The impact of environmental quality on market outcomes. -->
 
 ## Working papers
 
-"Sceptic priors and climate consensus." (Revised and submitted)
+"Technological Change and Obsolete Skills: Evidence from Men's Professional Tennis" (with Ian Fillmore) (Revisions requested by Labour Economics)
 
-*How much evidence would it take to convince sceptics that they are wrong about climate change? I explore this question within a Bayesian framework. I consider a group of stylised sceptics and examine how these individuals update their beliefs in the face of current and continuing climate change. I find that available evidence in the form of instrumental climate data tends to overwhelm all but the most extreme priors. Most sceptics form updated beliefs about climate sensitivity that correspond closely to estimates from the scientific literature. However, belief convergence is a non-linear function of prior strength. It becomes increasingly difficult to convince the remaining pool of sceptics that they are wrong. I discuss the necessary conditions for consensus formation under Bayesian learning and show how apparent deviations from the Bayesian ideal still be accommodated within the same conceptual framework. I argue that a generalized Bayesian model thus provides a bridge between competing theories of climate scepticism as a social phenomenon.* ([Paper](http://raw.githack.com/grantmcdermott/sceptic-priors/master/paper/sceptic/sceptic.pdf){:target="_blank"} and [SM](http://raw.githack.com/grantmcdermott/sceptic-priors/master/paper/SM/sceptic-SM.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/sceptic-priors){:target="_blank"}.)
+"Inframarginal Travelers and Transportation Policy" (submitted)
 
-"Hydro power. Market might."
-
-*A central tenet of economic theory is that market power induces deadweight loss. This claim rests on an assumption that is difficult to verify empirically. Namely, that dominant firms produce less than the social optimum. I provide evidence of such restrictive behaviour using a rich dataset of Norwegian hydropower firms. The research design exploits exogenous variation in market power, arising from transmission bottlenecks and the formation of localized electricity markets. The unique production traits of hydropower production further helps to avoid empirical complications associated with marginal cost estimation and endogenous variation in the supply mix. This allows me to identify the causal impact of market power on firm behaviour in a reduced-form setting that requires minimal assumptions. I show that gaining pivotal status can cause firms to withhold production by as much as a two to five percent. My results suggest that even nominally competitive markets are susceptible to strategic manipulation and welfare losses.* ([Paper]({{ site.url }}/papers/hydro.pdf){:target="_blank"}.)
-
-
+"Can Behavioral Interventions Be Too Salient? Evidence from Traffic Safety Messages" (with Joshua Madsen) (submitted)
 
 ## Selected works in progress
 
@@ -45,4 +41,4 @@ header:
 
 "South Africa Compliance Analysis." With James Morrissey and Davina Mendelsohn, in “Governing Global Climate Change: St Petersburg Compliance Report for the ‘G8 Plus Five’ Countries”, Maria Banda and Joanna Langille (eds.), G8 Final Compliance Report 2007, Oxford: G8 Research Group Oxford, 1 June 2007. xiii + 190 pp. ([Report](http://www.g8.utoronto.ca/oxford/2006compliance-ox.pdf){:target="_blank"}.)
 
-"The Current Status of the EPWP (Infrastructure) in the Western Cape." With Anna McCord, Kim Adonis and Lisa van Dongen. Prepared for the Western Cape Provincial Treasury & Department of Transport And Public Works CAPE. Public Works Research Project, SALDRU, UCT, 24 March 2006. ([Report](http://www.saldru.uct.ac.za/documentation/reports-and-studies-1/147-the-current-status-of-the-epwp-infrastructure-in-the-western-cape-1){:target="_blank"}.) -->
+"The Current Status of the EPWP (Infrastructure) in the Western Cape." With Anna McCord, Kim Adonis and Lisa van Dongen. Prepared for the Western Cape Provincial Treasury & Department of Transport And Public Works CAPE. Public Works Research Project, SALDRU, UCT, 24 March 2006. ([Report](http://www.saldru.uct.ac.za/documentation/reports-and-studies-1/147-the-current-status-of-the-epwp-infrastructure-in-the-western-cape-1){:target="_blank"}.)
