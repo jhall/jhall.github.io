@@ -25,6 +25,7 @@ header:
 ## Publications
 
 "Can Tolling Help Everyone? Estimating the Aggregate and Distributional Consequences of Congestion Pricing." Journal of the European Economic Association. 19:441-474. 2021.
+
      Published version | Online appendix | Replication files
 
 "Tolling Roads to Improve Reliability" (with Ian Savage). Journal of Urban Economics. 113:103187. 2019.
