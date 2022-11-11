@@ -8,14 +8,14 @@ header:
 
 ### Graduate
 
-*Urban and Regional Economics*, ECO 2850. ([Syllabus](https://github.com/uo-ec510-2020-spring/syllabus/blob/master/syllabus.pdf). [Lectures](https://github.com/uo-ec510-2020-spring/lectures).)
+*Urban and Regional Economics*, ECO2850. ([Syllabus](/documents/teaching/ECO2850-Urban_and_Regional_Economics.pdf)
 
-*Program Evaluation for Public Policy*, PPG 1008. ([Syllabus](https://github.com/uo-ec607/syllabus/blob/master/syllabus.pdf). [Lectures](https://github.com/uo-ec607/lectures).)
+*Program Evaluation for Public Policy*, PPG1008. ([Syllabus](/documents/teaching/Program_Evaluation_Syllabus.pdf). )
 
-*Urban and Transportation Policy*, PPG 2002. ([Syllabus](https://github.com/uo-ec510-2020-spring/syllabus/blob/master/syllabus.pdf). [Lectures](https://github.com/uo-ec510-2020-spring/lectures).)
+*Urban and Transportation Policy*, PPG2002. ([Syllabus](/documents/teaching/Urban_and_Transportation_Policy_Syllabus.pdf).)
 
 
 
 ### Undergraduate
 
-*Urban Economics*, ECO 333. ([Syllabus](https://drive.google.com/file/d/1Ut5_qRwkKr_PsLNyUYG9ttKZdbiBhqAs/view?usp=sharing).)
+*Urban Economics*, ECO333. [Syllabus](/documents/teaching/Urban_Economics_Syllabus.pdf).
