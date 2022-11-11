@@ -22,12 +22,11 @@ header:
 
 ## Publications
 
-"Can Behavioral Interventions Be Too Salient? Evidence from Traffic Safety Messages" (with Joshua Madsen). Science. 376:eabm3427. 2022.
-     
-<small>&ensp;&ensp;&ensp;&ensp;Published version &#124; Online appendix &#124; Replication files</small>
+"Can Behavioral Interventions Be Too Salient? Evidence from Traffic Safety Messages" (with Joshua Madsen). *Science.* 376:eabm3427. 2022.       
+&ensp;&ensp;&ensp;&ensp;[Published version](https://doi.org/10.1126/science.abm3427) &#124; [Online appendix](https://www.science.org/doi/suppl/10.1126/science.abm3427/suppl_file/science.abm3427_sm.pdf) &#124; [Replication files](https://doi.org/10.5683/SP3/MCH1EF)
 
-"Technological Change and Obsolete Skills: Evidence from Men's Professional Tennis" (with Ian Fillmore). Labour Economics. 73:102051. 2021.  
-&ensp;&ensp;&ensp;&ensp;Published version &#124; Online appendix &#124; Replication files
+["Technological Change and Obsolete Skills: Evidence from Men's Professional Tennis"](file:///C:/Users/jonat/Dropbox/CV%20and%20Website/Website/documents/Fillmore%20Hall%20-%20Labour%20-%20WP%20-%202021.pdf) (with Ian Fillmore). *Labour Economics.* 73:102051. 2021.  
+&ensp;&ensp;&ensp;&ensp;[Published version](https://doi.org/10.1016/j.labeco.2021.102051) &#124; Online appendix &#124; [Replication files](http://doi.org/10.3886/E149621V2)
 
 
 "Can Tolling Help Everyone? Estimating the Aggregate and Distributional Consequences of Congestion Pricing." *Journal of the European Economic Association.* 19:441-474. 2021.
