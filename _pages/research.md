@@ -27,7 +27,6 @@ header:
 <small>&ensp;&ensp;&ensp;&ensp;Published version &#124; Online appendix &#124; Replication files</small>
 
 "Technological Change and Obsolete Skills: Evidence from Men's Professional Tennis" (with Ian Fillmore). Labour Economics. 73:102051. 2021.
-     
 &ensp;&ensp;&ensp;&ensp;Published version &#124; Online appendix &#124; Replication files
 
 
