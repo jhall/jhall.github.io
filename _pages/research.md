@@ -34,14 +34,16 @@ header:
 &ensp;&ensp;&ensp;&ensp;[Published version](https://academic.oup.com/jeea/advance-article/doi/10.1093/jeea/jvz082/5721772?guestAccessKey=7c81a42d-0138-4fbf-94bc-046eea00b320) &#124; [Working paper](/documents/Hall%20-%20JEEA%20-%20WP%20-%202020.pdf) &#124; [Online appendix](http://individual.utoronto.ca/jhall/documents/Hall%20-%20JEEA%20-%20Appendix%20-%202020.pdf) &#124; [Replication files](https://doi.org/10.5683/SP2/RZS1FL)
 
 ## Testing
-["Tolling Roads to Improve Reliability"](https://tspace.library.utoronto.ca/bitstream/1807/97220/1/Hall%20and%20Savage%20-%20JUE%20-%20WP%20-%202019.pdf) (with Ian Savage). *Journal of Urban Economics.* 113:103187. 2019. [Published version](https://doi.org/10.1016/j.jue.2019.103187). [Working paper](/documents/Hall%20and%20Savage%20-%20JUE%20-%20WP%20-%202019.pdf). [Replication files](https://doi.org/10.3886/E115489V1).
-
 ["Tolling Roads to Improve Reliability"](https://tspace.library.utoronto.ca/bitstream/1807/97220/1/Hall%20and%20Savage%20-%20JUE%20-%20WP%20-%202019.pdf) (with Ian Savage). *Journal of Urban Economics.* 113:103187. 2019.  
 &ensp;&ensp;&ensp;&ensp;[Published version](https://doi.org/10.1016/j.jue.2019.103187). [Working paper](/documents/Hall%20and%20Savage%20-%20JUE%20-%20WP%20-%202019.pdf). [Replication files](https://doi.org/10.3886/E115489V1).
 
-["Tolling Roads to Improve Reliability"](https://tspace.library.utoronto.ca/bitstream/1807/97220/1/Hall%20and%20Savage%20-%20JUE%20-%20WP%20-%202019.pdf) (with Ian Savage). *Journal of Urban Economics.* 113:103187. 2019. [Paper](https://doi.org/10.1016/j.jue.2019.103187). [Ungated](/documents/Hall%20and%20Savage%20-%20JUE%20-%20WP%20-%202019.pdf). [Replication files](https://doi.org/10.3886/E115489V1).
+["Tolling Roads to Improve Reliability"](https://tspace.library.utoronto.ca/bitstream/1807/97220/1/Hall%20and%20Savage%20-%20JUE%20-%20WP%20-%202019.pdf) (with Ian Savage). *Journal of Urban Economics.* 113:103187. 2019. [Published version](https://doi.org/10.1016/j.jue.2019.103187). [Replication files](https://doi.org/10.3886/E115489V1).
+
+["Tolling Roads to Improve Reliability"](https://tspace.library.utoronto.ca/bitstream/1807/97220/1/Hall%20and%20Savage%20-%20JUE%20-%20WP%20-%202019.pdf) (with Ian Savage). *Journal of Urban Economics.* 113:103187. 2019. [Paper](https://doi.org/10.1016/j.jue.2019.103187). [Replication files](https://doi.org/10.3886/E115489V1).
 
 "Tolling Roads to Improve Reliability" (with Ian Savage). *Journal of Urban Economics.* 113:103187. 2019. [Paper](https://doi.org/10.1016/j.jue.2019.103187). [Ungated](https://tspace.library.utoronto.ca/bitstream/1807/97220/1/Hall%20and%20Savage%20-%20JUE%20-%20WP%20-%202019.pdf). [Replication files](https://doi.org/10.3886/E115489V1).
+
+"Tolling Roads to Improve Reliability" (with Ian Savage). *Journal of Urban Economics.* 113:103187. 2019. [Published version](https://doi.org/10.1016/j.jue.2019.103187). [Working paper](https://tspace.library.utoronto.ca/bitstream/1807/97220/1/Hall%20and%20Savage%20-%20JUE%20-%20WP%20-%202019.pdf). [Replication files](https://doi.org/10.3886/E115489V1).
 
 ## End tests
 
