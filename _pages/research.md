@@ -28,7 +28,7 @@ header:
 
 "Tolling Roads to Improve Reliability" (with Ian Savage). *Journal of Urban Economics.* 113:103187. 2019.
 
-&ensp;&ensp;&ensp;&ensp;[Published version](https://doi.org/10.1016/j.jue.2019.103187) | [Working paper](/documents/Hall%20and%20Savage%20-%20JUE%20-%20WP%20-%202019.pdf) | [Replication files](https://doi.org/10.3886/E115489V1)
+&ensp;&ensp;&ensp;&ensp;[Published version](https://doi.org/10.1016/j.jue.2019.103187) &#124; [Working paper](/documents/Hall%20and%20Savage%20-%20JUE%20-%20WP%20-%202019.pdf) &#124; [Replication files](https://doi.org/10.3886/E115489V1)
 
 "Is Uber a Complement or Substitute with Public Transit?" (with Craig Palsson and Joseph Price). *Journal of Urban Economics.* 108: 36-50. 2018.
 
