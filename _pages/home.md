@@ -4,7 +4,7 @@ title: "Welcome"
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/rallarvegen-crop2.jpg
+  image: /assets/images/negative-space-snow-capped-mountain-lake-reflection-cropped.jpg
 ---
 
 I am an associate professor of economics and public policy at the University of Toronto. 
