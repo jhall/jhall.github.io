@@ -6,7 +6,7 @@ header:
 ---
 
 
-## Graduate
+### Graduate
 
 *Urban and Regional Economics*, ECO2850. [Syllabus](/documents/teaching/ECO2850-Urban_and_Regional_Economics.pdf).
 
@@ -16,6 +16,6 @@ header:
 
 
 
-## Undergraduate
+### Undergraduate
 
 *Urban Economics*, ECO333. [Syllabus](/documents/teaching/Urban_Economics_Syllabus.pdf).
