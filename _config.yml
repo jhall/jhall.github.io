@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Jonathan D. Hall
-url: https://jhall.gitub.io
+url: https://jhall.github.io
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
