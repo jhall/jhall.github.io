@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 header:
-  image: /assets/images/swiss-mountains.jpg
+  image: /assets/images/swiss-mountains-2.jpg
 ---
 
 **Fields:** Urban and Transportation Economics
