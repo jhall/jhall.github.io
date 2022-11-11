@@ -24,7 +24,7 @@ github: [metadata]
 email: jonathan.hall@utoronto.ca
 description: >- # this means to ignore newlines in the text below
   Jonathan Hall's personal website.
-twitter_username: grant_mcdermott
+twitter_username: jonathanhall2
 github_username: jhall
 minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
@@ -66,7 +66,7 @@ author:
   name   : "Jonathan D. Hall"
   avatar : "/assets/images/jonathan-d-hall.jpg"
   bio    : 
-    Assistant Professor at the University of Toronto. 
+    Associate Professor at the University of Toronto. 
     Interested in urban and transportation economics.
   links:
     - label: "Email"
