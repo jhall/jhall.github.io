@@ -9,7 +9,7 @@ header:
 
 <!-- **Interests:** Energy markets and climate change. Water management. Fisheries policy. The impact of environmental quality on market outcomes. -->
 
-## Accepted versions
+## Working papers
 
 "Inframarginal Travelers and Transportation Policy." Revisions requested by the *International Economic Review*. [Working paper](https://papers.ssrn.com/abstract=3424097).
 
