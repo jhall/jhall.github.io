@@ -7,7 +7,7 @@ header:
   image: /assets/images/rallarvegen-crop2.jpg
 ---
 
-I am an assistant professor of economics and public policy at the University of Toronto. 
+I am an associate professor of economics and public policy at the University of Toronto. 
 
 <!-- My research fields are environmental and resource economics, which means that I study the interactions between human and natural systems. Broadly speaking, I am interested in questions like: 
 
