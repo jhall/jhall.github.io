@@ -4,7 +4,7 @@ title: "Welcome"
 author_profile: true
 classes: wide
 header:
-  image: /assets/images/amsterdam-buildings.jpg
+  image: /assets/images/toronto-2.jpg
 ---
 
 I am an associate professor of economics and public policy at the University of Toronto. 
