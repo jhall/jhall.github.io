@@ -2,7 +2,7 @@
 title: Teaching
 permalink: /teaching/
 header:
-  image: /assets/images/toronto-1.jpg
+  image: /assets/images/windmills.jpg
 ---
 
 
