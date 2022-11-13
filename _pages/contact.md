@@ -1,11 +1,9 @@
 ---
-title: Contact
+title: Contact information
 permalink: /contact/
 header:
   image: /assets/images/swiss-mountains.jpg
 ---
-
-### Contact information
 
 
 | Email: | jonathan.hall@utoronto.ca |
