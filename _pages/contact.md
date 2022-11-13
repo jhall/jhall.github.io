@@ -6,7 +6,7 @@ header:
 ---
 
 
-| Email: | jonathan.hall@utoronto.ca |
+| Email: | [jonathan.hall@utoronto.ca](jonathan.hall@utoronto.ca) |
 | Office: | Max Gluskin House, Room 356 |
 | Phone: |  416.978.5110 |
 |Fax: |  416.978.6713 |
