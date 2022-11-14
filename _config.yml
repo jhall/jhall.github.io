@@ -66,15 +66,15 @@ author:
   name   : "Jonathan D. Hall"
   avatar : "/assets/images/jonathan-d-hall.jpg"
   bio    : 
-    Associate Professor at the University of Toronto. 
+    Associate Professor of Economics and Public Policy at the University of Toronto. 
     Interested in urban and transportation economics.
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:jonathan.hall@utoronto.ca"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/jonathanhall2"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/jonathanhall2"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   url: "https://github.com/grantmcdermott"
