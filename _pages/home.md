@@ -7,7 +7,7 @@ header:
   image: /assets/images/toronto-2.jpg
 ---
 
-I am an applied microeconomist at the University of Toronto, with appointments in the [Department of Economics](https://economics.utoronto.ca/) and [Munk School of Global Affairs and Public Policy](https://munkschool.utoronto.ca/). My research strives to improve urban transportation systems by focusing on three broad themes: first, understanding and addressing traffic congestion, second, evaluating the impacts of new transportation technologies on cities, and third, improving transportation safety. My research uses a variety of theoretical and empirical methods, including structural and reduced-form approaches, to address these themes. 
+I am an applied microeconomist at the [University of Toronto](https://www.utoronto.ca/), with appointments in the [Department of Economics](https://economics.utoronto.ca/) and [Munk School of Global Affairs and Public Policy](https://munkschool.utoronto.ca/). My research strives to improve urban transportation systems by focusing on three broad themes: first, understanding and addressing traffic congestion, second, evaluating the impacts of new transportation technologies on cities, and third, improving transportation safety. My research uses a variety of theoretical and empirical methods, including structural and reduced-form approaches, to address these themes. 
 
 <!-- My research fields are environmental and resource economics, which means that I study the interactions between human and natural systems. Broadly speaking, I am interested in questions like: 
 
