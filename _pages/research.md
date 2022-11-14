@@ -5,7 +5,7 @@ header:
   image: /assets/images/amsterdam-buildings.jpg
 ---
 
-**Fields:** Urban and Transportation Economics
+<!-- **Fields:** Urban and Transportation Economics -->
 
 <!-- **Interests:** Energy markets and climate change. Water management. Fisheries policy. The impact of environmental quality on market outcomes. -->
 
