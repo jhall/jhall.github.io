@@ -21,7 +21,7 @@ url: https://jhall.github.io
 
 # repository: jhall/jhall.github.io
 github: [metadata]
-email: jonathan.hall@utoronto.ca
+email: jonathan.hall@ua.edu
 description: >- # this means to ignore newlines in the text below
   Jonathan Hall's personal website.
 twitter_username: jonathanhall2
@@ -66,12 +66,12 @@ author:
   name   : "Jonathan D. Hall"
   avatar : "/assets/images/jonathan-d-hall.jpg"
   bio    : 
-    Associate Professor of Economics and Public Policy at the University of Toronto. 
+    Associate Professor of Real Estate and Economics at the University of Alabama. 
     Interested in urban and transportation economics.
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:jonathan.hall@utoronto.ca"
+      url: "mailto:jonathan.hall@ua.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jonathanhall2"
