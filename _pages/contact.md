@@ -6,9 +6,8 @@ header:
 ---
 
 
-| Email: | [jonathan.hall@utoronto.ca](jonathan.hall@utoronto.ca) |
-| Office: | Max Gluskin House, Room 356 |
-| Phone: |  416.978.5110 |
-|Fax: |  416.978.6713 |
-|Mail: | Department of Economics <br/> University of Toronto <br/> 150 St. George Street <br/> Toronto, Ontario M5S 3G7 <br/> Canada|
+| Email: | [jonathan.hall@ua.edu](jonathan.hall@ua.edu) |
+| Office: | 245 Alston Hall |
+| Phone: |  205.348.0788 |
+| Mail: | Department of Economics, Finance, and Legal Studies <br/> University of Alabama <br/> 361 Stadium Drive <br/> Tuscaloosa, Alabama 35487
 
