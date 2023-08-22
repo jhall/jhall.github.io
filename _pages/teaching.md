@@ -5,6 +5,13 @@ header:
   image: /assets/images/industrial.jpg
 ---
 
+## University of Alabama
+
+### Undergraduate
+
+*Principles of Real Estate*, FI331. [Syllabus](https://ua.simplesyllabus.com/doc/hgxm6qe5y/Fall-2023-FI-331-001-Principles-of-Real-Estate?mode=view).
+
+## University of Toronto
 
 ### Graduate
 
