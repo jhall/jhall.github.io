@@ -11,7 +11,7 @@ header:
 
 ### Working papers
 
-"Inframarginal Travelers and Transportation Policy." Revisions requested by the *International Economic Review*. [Working paper](https://papers.ssrn.com/abstract=3424097).
+"Inframarginal Travelers and Transportation Policy." Conditionally accepted by the *International Economic Review*. [Working paper](https://papers.ssrn.com/abstract=3424097).
 
 "VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities" (with John Cairncross and Craig Palsson). Revisions requested by the *Canadian Journal of Economics*. [Working paper](/documents/Vancouver_and_Uber.pdf).
 
