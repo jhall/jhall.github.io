@@ -33,6 +33,6 @@ header:
 
 "Is Uber a Complement or Substitute with Public Transit?" (with Craig Palsson and Joseph Price). *Journal of Urban Economics.* 108: 36-50. 2018. [Published version](https://doi.org/10.1016/j.jue.2018.09.003). [Accepted version](https://tspace.library.utoronto.ca/bitstream/1807/90811/1/Is%20Uber%20a_TSpace.pdf). [Replication files](https://doi.org/10.3886/E115490V3).
 
-"Pareto Improvements from Lexus Lanes: The Effects of Pricing a Portion of the Lanes on Congested Highways." *Journal of Public Economics.* 158: 113-125. 2018. [Published version](https://doi.org/10.1016/j.jpubeco.2018.01.003). [Accepted version](https://tspace.library.utoronto.ca/bitstream/1807/90640/1/PI_from_LL.pdf). [Replication files](http://doi.org/10.3886/E115488V1).
+"Pareto Improvements from Lexus Lanes: The Effects of Pricing a Portion of the Lanes on Congested Highways." *Journal of Public Economics.* 158: 113-125. 2018. [Published version](https://doi.org/10.1016/j.jpubeco.2018.01.003). [Accepted version](https://tspace.library.utoronto.ca/bitstream/1807/90640/1/PI_from_LL.pdf). [Online appendix](https://tspace.library.utoronto.ca/bitstream/1807/90640/2/PI_from_LL-Appendix.pdf). [Replication files](http://doi.org/10.3886/E115488V1).
 
 "A Semi-Analytical Approach for Solving the Bottleneck Model with General User Heterogeneity" (with Yang Liu and Marco Nie). *Transportation Research: Part B.* 71: 56-70. 2015. [Published version](https://doi.org/10.1016/j.trb.2014.09.016).
