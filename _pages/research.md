@@ -11,8 +11,6 @@ header:
 
 ### Working papers
 
-"Inframarginal Travelers and Transportation Policy." Conditionally accepted by the *International Economic Review*. [Working paper](https://papers.ssrn.com/abstract=3424097).
-
 "VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities" (with John Cairncross and Craig Palsson). Revisions requested by the *Canadian Journal of Economics*. [Working paper](/documents/Vancouver_and_Uber.pdf).
 
 "Uber versus Trains? Worldwide Evidence from Transit Expansions" (with Marco Gonzalez-Navarro, Harrison Wheeler, and Rik Williams). [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959760).
@@ -21,6 +19,9 @@ header:
 
 
 ### Publications
+
+"Inframarginal Travelers and Transportation Policy." Forthcoming at the *International Economic Review*. [Working paper](https://papers.ssrn.com/abstract=3424097). [Replication files](https://doi.org/10.3886/E198103V1).
+
 
 "Can Behavioral Interventions Be Too Salient? Evidence from Traffic Safety Messages" (with Joshua Madsen). *Science.* 376:eabm3427. 2022. [Published version](https://doi.org/10.1126/science.abm3427). [Accepted version](https://tspace.library.utoronto.ca/bitstream/1807/111157/1/Hall%20Madsen%20-%20Science%20-%20Accepted%20Version%20-%202022.pdf). [Online appendix](https://www.science.org/doi/suppl/10.1126/science.abm3427/suppl_file/science.abm3427_sm.pdf). [Replication files](https://doi.org/10.5683/SP3/MCH1EF).
 
