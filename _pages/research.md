@@ -20,7 +20,7 @@ header:
 
 ### Publications
 
-"Inframarginal Travelers and Transportation Policy." Forthcoming at the *International Economic Review*. [Working paper](https://papers.ssrn.com/abstract=3424097). [Replication files](https://doi.org/10.3886/E198103V1).
+"Inframarginal Travelers and Transportation Policy." Forthcoming at the *International Economic Review*. [Published version](https://onlinelibrary.wiley.com/share/author/E7CC2UJN9DHWEIIFCR35?target=10.1111/iere.12692) [Working paper](https://papers.ssrn.com/abstract=3424097). [Replication files](https://doi.org/10.3886/E198103V1).
 
 
 "Can Behavioral Interventions Be Too Salient? Evidence from Traffic Safety Messages" (with Joshua Madsen). *Science.* 376:eabm3427. 2022. [Published version](https://doi.org/10.1126/science.abm3427). [Accepted version](https://tspace.library.utoronto.ca/bitstream/1807/111157/1/Hall%20Madsen%20-%20Science%20-%20Accepted%20Version%20-%202022.pdf). [Online appendix](https://www.science.org/doi/suppl/10.1126/science.abm3427/suppl_file/science.abm3427_sm.pdf). [Replication files](https://doi.org/10.5683/SP3/MCH1EF).
