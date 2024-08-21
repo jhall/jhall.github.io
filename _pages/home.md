@@ -7,4 +7,4 @@ header:
   image: /assets/images/toronto.jpg
 ---
 
-I am the M. Christian Mitchell Associate Professor in Real Estate and Economics at the University of Alabama. My research strives to improve urban transportation systems by focusing on three broad themes: first, understanding and addressing traffic congestion, second, evaluating the impacts of new transportation technologies on cities, and third, improving transportation safety. My research uses a variety of theoretical and empirical methods, including structural and reduced-form approaches, to address these themes. 
+I am an Associate Professor of Real Estate and Economics at the University of Alabama. My research strives to improve urban transportation systems by focusing on three broad themes: first, understanding and addressing traffic congestion, second, evaluating the impacts of new transportation technologies on cities, and third, improving transportation safety. My research uses a variety of theoretical and empirical methods, including structural and reduced-form approaches, to address these themes. 
