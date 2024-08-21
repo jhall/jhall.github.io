@@ -9,7 +9,11 @@ header:
 
 ### Undergraduate
 
-*Principles of Real Estate*, FI331. [Syllabus](https://ua.simplesyllabus.com/doc/hgxm6qe5y/Fall-2023-FI-331-001-Principles-of-Real-Estate?mode=view).
+*Principles of Real Estate*, FI 331. [Syllabus](https://ua.simplesyllabus.com/doc/gpueon0k2/Fall-2024-FI-331-001-?mode=view).
+
+### Graduate
+
+*PhD Urban Economics I*, EC 597. [Syllabus](https://ua.simplesyllabus.com/en-US/doc/qr9y1biiv/Fall-2024-EC-597-007-?mode=view).
 
 ## University of Toronto
 
