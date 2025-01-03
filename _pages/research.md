@@ -11,7 +11,7 @@ header:
 
 ### Working papers
 
-"VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities" (with John Cairncross and Craig Palsson). Revisions requested by the *Canadian Journal of Economics*. [Working paper](/documents/Vancouver_and_Uber.pdf).
+"VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities" (with John Cairncross and Craig Palsson). Conditionally accepted by the *Canadian Journal of Economics*. [Working paper](/documents/Vancouver_and_Uber.pdf).
 
 "Uber versus Trains? Worldwide Evidence from Transit Expansions" (with Marco Gonzalez-Navarro, Harrison Wheeler, and Rik Williams). [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959760).
 
