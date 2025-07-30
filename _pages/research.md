@@ -10,8 +10,8 @@ header:
 <!-- **Interests:** Energy markets and climate change. Water management. Fisheries policy. The impact of environmental quality on market outcomes. -->
 
 ### Working papers
-
 "VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities" (with John Cairncross and Craig Palsson). Forthcoming in the *Canadian Journal of Economics*. [Working paper](/documents/Vancouver_and_Uber.pdf). [Replication files](https://doi.org/10.5683/SP3/PPZ2WJ)
+
 
 "Uber versus Trains? Worldwide Evidence from Transit Expansions" (with Marco Gonzalez-Navarro, Harrison Wheeler, and Rik Williams). [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959760).
 
