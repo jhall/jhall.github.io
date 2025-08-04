@@ -11,6 +11,8 @@ header:
 
 *Principles of Real Estate*, FI 331. [Syllabus](/documents/teaching/FI-331.pdf).
 
+*Transportation Economics*, EC  497. [Syllabus](/documents/teaching/EC-497.pdf).
+
 ### Graduate
 
 *PhD Urban Economics I*, EC 597. [Syllabus](/documents/teaching/EC-597.pdf).
@@ -24,8 +26,6 @@ header:
 *Program Evaluation for Public Policy*, PPG1008. [Syllabus](/documents/teaching/Program_Evaluation_Syllabus.pdf).
 
 *Urban and Transportation Policy*, PPG2002. [Syllabus](/documents/teaching/Urban_and_Transportation_Policy_Syllabus.pdf).
-
-
 
 ### Undergraduate
 
