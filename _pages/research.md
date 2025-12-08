@@ -18,7 +18,7 @@ header:
 
 ### Publications
 
-"VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities" (with John Cairncross and Craig Palsson). *Canadian Journal of Economics*.  58: 892-939. 2025. [Published version](https://onlinelibrary.wiley.com/share/author/EWV8THC8DWB8NQZSNWSN?target=10.1111/caje.70023). <!-- [Accepted version](https://ir-api.ua.edu/api/core/bitstreams/2e0f37e7-3bc5-4fbf-8d0b-03310eba3976/content).  --> [Working paper](/documents/Vancouver_and_Uber.pdf). [Replication files](https://doi.org/10.5683/SP3/PPZ2WJ). <!-- Stable handle: https://ir.ua.edu/handle/123456789/17434 -->
+"VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities" (with John Cairncross and Craig Palsson). *Canadian Journal of Economics*.  58: 892-939. 2025. [Published version 🔓](https://onlinelibrary.wiley.com/share/author/EWV8THC8DWB8NQZSNWSN?target=10.1111/caje.70023). <!-- [Accepted version](https://ir-api.ua.edu/api/core/bitstreams/2e0f37e7-3bc5-4fbf-8d0b-03310eba3976/content).  --> [Working paper 🔓](/documents/Vancouver_and_Uber.pdf). [Replication files 🔓](https://doi.org/10.5683/SP3/PPZ2WJ). <!-- Stable handle: https://ir.ua.edu/handle/123456789/17434 -->
 
 
 "Inframarginal Travelers and Transportation Policy." *International Economic Review.* 65:1519-1550. 2024.  [Published version](https://onlinelibrary.wiley.com/share/author/E7CC2UJN9DHWEIIFCR35?target=10.1111/iere.12692). [Working paper](https://papers.ssrn.com/abstract=3424097). [Replication files](https://doi.org/10.3886/E198103V1). <!-- Stable handle: https://ir.ua.edu/handle/123456789/14321 -->
