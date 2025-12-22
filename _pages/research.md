@@ -11,7 +11,7 @@ header:
 
 ### Working papers
 
-"Uber versus Trains? Worldwide Evidence from Transit Expansions" (with Marco Gonzalez-Navarro, Harrison Wheeler, and Rik Williams). [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3959760).
+"Uber versus Trains? Worldwide Evidence from Transit Expansions" (with Marco Gonzalez-Navarro, Harrison Wheeler, and Rik Williams). [Working paper](/documents/Uber_vs_Trains.pdf). 
 
 <!-- ## Selected works in progress -->
 
