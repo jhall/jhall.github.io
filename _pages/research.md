@@ -11,6 +11,8 @@ header:
 
 ### Working papers
 
+"Ride-hailing and Urban Transportation: Evidence and Policy." [Working paper](/ride-hailing_and_urban_transportation.pdf). 
+
 "Uber versus Trains? Worldwide Evidence from Transit Expansions" (with Marco Gonzalez-Navarro, Harrison Wheeler, and Rik Williams). [Working paper](/documents/Uber_vs_Trains.pdf). 
 
 <!-- ## Selected works in progress -->
