@@ -11,14 +11,14 @@ header:
 
 ### Working papers
 
-"Ride-hailing and Urban Transportation: Evidence and Policy." Revisions requested by *Regional Science and Urban Economics* [Working paper](/documents/ride-hailing_and_urban_transportation.pdf). 
-
 "Uber versus Trains? Worldwide Evidence from Transit Expansions" (with Marco Gonzalez-Navarro, Harrison Wheeler, and Rik Williams). [Working paper](/documents/Uber_vs_Trains.pdf). 
 
 <!-- ## Selected works in progress -->
 
 
 ### Publications
+
+"Ride-hailing and Urban Transportation: Evidence and Policy." Forthcoming in *Regional Science and Urban Economics* [Working paper](/documents/ride-hailing_and_urban_transportation.pdf). 
 
 "VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities" (with John Cairncross and Craig Palsson). *Canadian Journal of Economics*.  58: 892-939. 2025. [Published version](https://onlinelibrary.wiley.com/share/author/EWV8THC8DWB8NQZSNWSN?target=10.1111/caje.70023). <!-- [Accepted version](https://ir-api.ua.edu/api/core/bitstreams/2e0f37e7-3bc5-4fbf-8d0b-03310eba3976/content).  --> [Working paper](/documents/Vancouver_and_Uber.pdf). [Replication files](https://doi.org/10.5683/SP3/PPZ2WJ). <!-- Stable handle: https://ir.ua.edu/handle/123456789/17434 -->
 
