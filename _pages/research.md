@@ -20,7 +20,7 @@ header:
 
 "Ride-hailing and Urban Transportation: Evidence and Policy." Forthcoming in *Regional Science and Urban Economics.* [Published version](https://doi.org/10.1016/j.regsciurbeco.2026.104221). [Accepted version](/documents/ride-hailing_and_urban_transportation.pdf). [Replication files](https://doi.org/10.5683/SP3/25IBV5).
 
-"Investigating the Analytical Robustness of the Social and Behavioural Sciences" (with Balazs Aczel, Barnabas Szaszi, Harry T. Clelland, Marton Kovacs, Felix Holzmeister, Don van Ravenzwaaij, Hannah Schulz-Kümpel, Sabine Hoffmann, et al.). *Nature*. 652:135--142. 2026. [Published version](https://rdcu.be/fbewp). [Working paper](https://doi.org/10.31222/osf.io/twqsv_v1). [Replication files](https://doi.org/10.17605/OSF.IO/DTZX4).
+"Investigating the Analytical Robustness of the Social and Behavioural Sciences" (with Balazs Aczel, Barnabas Szaszi, Harry T. Clelland, Marton Kovacs, Felix Holzmeister, Don van Ravenzwaaij, Hannah Schulz-Kümpel, Sabine Hoffmann, et al.). *Nature*. 652:135--142. 2026. [Published version](https://rdcu.be/fbewp). [Working paper](https://doi.org/10.31222/osf.io/twqsv_v1). [Replication files](https://osf.io/q5h2c).
 
 "Reproducibility and Robustness of Economics and Political Science Research" (with Abel Brodeur, Derek Mikola, Nikolai Cook, Lenka Fiala, et at.). *Nature*. 652:151--156. 2026. [Published version](https://rdcu.be/fbgKj). [Working paper](https://hdl.handle.net/10419/338965). [Replication files](https://doi.org/10.17605/OSF.IO/8WSQX).
 
