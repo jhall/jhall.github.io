@@ -20,6 +20,11 @@ header:
 
 "Ride-hailing and Urban Transportation: Evidence and Policy." Forthcoming in *Regional Science and Urban Economics.* [Published version](https://doi.org/10.1016/j.regsciurbeco.2026.104221). [Accepted version](/documents/ride-hailing_and_urban_transportation.pdf). [Replication files](https://doi.org/10.5683/SP3/25IBV5).
 
+"Investigating the Analytical Robustness of the Social and Behavioural Sciences" (with Balazs Aczel, Barnabas Szaszi, Harry T. Clelland, Marton Kovacs, Felix Holzmeister, Don van Ravenzwaaij, Hannah Schulz-Kümpel, Sabine Hoffmann, et al.). *Nature*. 652:135--142. 2026. [Published version](https://rdcu.be/fbewp)
+
+"Reproducibility and Robustness of Economics and Political Science Research" (with Abel Brodeur, Derek Mikola, Nikolai Cook, Lenka Fiala, et at.). *Nature*. 652:151--156. 2026. [Published version](https://rdcu.be/fbgKj)
+
+
 "VancUber: The Effect of Ride-Hailing on Public Transportation, Congestion, and Traffic Fatalities" (with John Cairncross and Craig Palsson). *Canadian Journal of Economics*.  58: 892-939. 2025. [Published version](https://onlinelibrary.wiley.com/share/author/EWV8THC8DWB8NQZSNWSN?target=10.1111/caje.70023). <!-- [Accepted version](https://ir-api.ua.edu/api/core/bitstreams/2e0f37e7-3bc5-4fbf-8d0b-03310eba3976/content).  --> [Working paper](/documents/Vancouver_and_Uber.pdf). [Replication files](https://doi.org/10.5683/SP3/PPZ2WJ). <!-- Stable handle: https://ir.ua.edu/handle/123456789/17434 -->
 
 
