@@ -15,7 +15,7 @@ header:
 
 ### Graduate
 
-*PhD Urban Economics I*, EC 597. [Syllabus](/documents/teaching/EC-597.pdf).
+*PhD Urban Economics I*, EC 621. [Syllabus](/documents/teaching/EC-597.pdf).
 
 ## University of Toronto
 
