@@ -34,8 +34,6 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /blog/page:num
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
@@ -55,10 +53,8 @@ include:
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -84,6 +80,9 @@ author:
       icon: "ai ai-orcid"
       url: "https://orcid.org/0000-0003-3835-9097"
       
+atom_feed:
+  hide: true
+
 footer:
   links:
     # - label: "Twitter"
