@@ -1,5 +1,6 @@
 ---
 title: Research
+description: "Publications and working papers by Jonathan D. Hall."
 permalink: /research/
 header:
   image: /assets/images/amsterdam-buildings.jpg

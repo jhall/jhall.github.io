@@ -1,5 +1,6 @@
 ---
 title: Teaching
+description: "Courses taught by Jonathan D. Hall at the University of Alabama, with syllabi."
 permalink: /teaching/
 header:
   image: /assets/images/industrial.jpg

@@ -1,5 +1,6 @@
 ---
 title: Contact information
+description: "Email, office, phone, and mailing address for Jonathan D. Hall, Department of Economics, Finance & Legal Studies, University of Alabama."
 permalink: /contact/
 header:
   image: /assets/images/swiss-mountains.jpg
