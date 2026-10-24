@@ -39,7 +39,7 @@ header:
 
 "Pareto Improvements from Lexus Lanes: The Effects of Pricing a Portion of the Lanes on Congested Highways." *Journal of Public Economics.* 158: 113-125. 2018. [Published version](https://doi.org/10.1016/j.jpubeco.2018.01.003). [Accepted version](https://tspace.library.utoronto.ca/bitstream/1807/90640/1/PI_from_LL.pdf). [Online appendix](https://tspace.library.utoronto.ca/bitstream/1807/90640/2/PI_from_LL-Appendix.pdf). [Replication files](http://doi.org/10.3886/E115488V1). <!-- Stable handle: https://hdl.handle.net/1807/90640 -->
 
-"A Semi-Analytical Approach for Solving the Bottleneck Model with General User Heterogeneity" (with Yang Liu and Marco Nie). *Transportation Research: Part B.* 71: 56-70. 2015. [Published version](https://doi.org/10.1016/j.trb.2014.09.016).
+"A Semi-Analytical Approach for Solving the Bottleneck Model with General User Heterogeneity" (with Yang Liu and Yu Nie). *Transportation Research: Part B.* 71: 56-70. 2015. [Published version](https://doi.org/10.1016/j.trb.2014.09.016).
 
 #### Large-scale reproducibility collaborations
 
