@@ -47,4 +47,10 @@ header:
 
 "Investigating the Analytical Robustness of the Social and Behavioural Sciences" (with Balazs Aczel, Barnabas Szaszi, Harry T. Clelland, Marton Kovacs, Felix Holzmeister, Don van Ravenzwaaij, Hannah Schulz-Kümpel, Sabine Hoffmann, et al.). *Nature*. 652:135--142. 2026. [Published version](https://rdcu.be/fbewp). [Working paper](https://doi.org/10.31222/osf.io/twqsv_v1). [Replication files](https://osf.io/q5h2c).
 
-"Reproducibility and Robustness of Economics and Political Science Research" (with Abel Brodeur, Derek Mikola, Nikolai Cook, Lenka Fiala, et at.). *Nature*. 652:151--156. 2026. [Published version](https://rdcu.be/fbgKj). [Working paper](https://hdl.handle.net/10419/338965). [Replication files](https://doi.org/10.17605/OSF.IO/8WSQX).
+"Reproducibility and Robustness of Economics and Political Science Research" (with Abel Brodeur, Derek Mikola, Nikolai Cook, Lenka Fiala, et al.). *Nature*. 652:151--156. 2026. [Published version](https://rdcu.be/fbgKj). [Working paper](https://hdl.handle.net/10419/338965). [Replication files](https://doi.org/10.17605/OSF.IO/8WSQX).
+
+#### Policy reports
+
+"The Role of Transit, Shared Modes, and Public Policy in the New Mobility Landscape" (with Gary C. Thomas, Regina R. Clewlow, Marlene Connor, et al.). Washington, DC: The National Academies Press. 2021. [Published version](https://doi.org/10.17226/26053).
+
+"High-occupancy Toll Lanes: Their Distributional Impact and Effect on Congestion." *International Transport Forum Discussion Papers.* No. 2020/07. OECD Publishing, Paris. 2020. [Published version](https://doi.org/10.1787/04525828-en).
